@@ -2,6 +2,9 @@
 
 Esta é uma extensão para navegadores Google Chrome que oferece transcrição de áudio para elementos <audio> em páginas da web.
 
+![cover](https://github.com/lucashahnndev/Web-Audio-Transcription/blob/main/screenshot/1%20(1).png)
+![cover](https://github.com/lucashahnndev/Web-Audio-Transcription/blob/main/screenshot/1%20(2).png)
+
 ## Funcionalidades
 
 - **Transcrição de Áudio:** Detecta automaticamente elementos <audio> em páginas da web.
