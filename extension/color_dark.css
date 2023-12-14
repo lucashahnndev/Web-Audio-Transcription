@@ -1,0 +1,44 @@
+.c-loader {
+    border: 3px solid #e5e5e5;
+}
+
+.text_transcribed {
+    color: #fff;
+
+}
+
+.transcription_title {
+    color: #fff;
+
+}
+
+.draggableElement_popup {
+    background: #000000;
+    color: #fff;
+}
+
+
+
+.trancription_result_copy_button {
+    background: #1c1c1c;
+    border-radius: 1px solid black;
+}
+
+
+.loader_div {
+    color: #fff;
+}
+
+.trancription_config {
+    background: #000000;
+    border: 1px solid rgb(51 51 51 / 90%);
+}
+
+.trancription_config>div {
+    border-bottom: 1px solid rgb(51 51 51 / 90%);
+}
+
+.theme_select{
+    background: #000000;
+    color: #fff;
+}

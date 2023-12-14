@@ -1,0 +1,56 @@
+.c-loader {
+    border: 3px solid #e5e5e5;
+}
+
+.text_transcribed {
+    color: #fff;
+}
+
+.transcription_title {
+    color: #fff;
+
+}
+
+.draggableElement_popup {
+    background: #000000eb;
+    color: #fff;
+}
+
+
+.trancription_result_copy_button {
+    background: #1c1c1c;
+    border-radius: 1px solid black;
+}
+
+
+.loader_div {
+    color: #fff;
+}
+
+.logo_tri {
+    width: 5vh;
+    height: 5vh;
+    position: absolute;
+    bottom: 1vh;
+    left: 1vh;
+}
+
+.logo_tri img {
+    height: 100%;
+}
+
+
+.trancription_config {
+    background: #000000eb;
+    border: 1px solid rgb(51 51 51 / 90%);
+}
+
+.trancription_config>div {
+    border-bottom: 1px solid rgb(51 51 51 / 90%);
+}
+
+
+.theme_select{
+    background: #000000eb;
+    color: #fff;
+}
